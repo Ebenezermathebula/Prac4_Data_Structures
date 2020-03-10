@@ -58,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.List_Data_StructureTest">
+  <component name="RunManager" selected="JUnit.List_Data_StructureTest.stack">
     <configuration name="List_Data_StructureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Prac4_Data_Structures" />
       <extension name="coverage">
@@ -139,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.List_Data_StructureTest" />
         <item itemvalue="JUnit.List_Data_StructureTest.stack" />
+        <item itemvalue="JUnit.List_Data_StructureTest" />
         <item itemvalue="JUnit.Map_Data_StructureTest.linkedHashMap" />
         <item itemvalue="JUnit.Set_Data_StructureTest" />
         <item itemvalue="JUnit.Set_Data_StructureTest.testLinkedHashSet" />
@@ -157,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583831385199</updated>
-      <workItem from="1583831390736" duration="3839000" />
+      <workItem from="1583831390736" duration="4093000" />
     </task>
     <servers />
   </component>

@@ -12,6 +12,7 @@ public class List_Data_Structure {
         list.push("three");
 
         System.out.println("The Top value is: "+list.pop());
+        System.out.println("The Top value is: "+list.pop());
     }
 
 
